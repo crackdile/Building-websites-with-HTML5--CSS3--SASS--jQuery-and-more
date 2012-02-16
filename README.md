@@ -13,29 +13,30 @@ Resources:
 
 Tutorials:
 ----------
+
 - [Compass and SASS](https://github.com/niclupien/compass-examples)
 
-Program:
---------
+The Program:
+------------
 
-##Structuring a site with HTML5
+###Structuring a site with HTML5
 
 ![HTML5 Element FLowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png "Sectioning content elements and friends")
 
-* [Designing a blog with html5](http://html5doctor.com/designing-a-blog-with-html5/)
-* [Html5 Reset Stylesheet](http://html5doctor.com/html-5-reset-stylesheet/)
-* [The header element](http://html5doctor.com/the-header-element/)
-* [The footer element](http://html5doctor.com/the-footer-element-update/)
-* [The article element](http://html5doctor.com/the-nsfw-element/)
-* [Nav element](http://html5doctor.com/nav-element/)
-* [The section element](http://html5doctor.com/the-section-element/)
-* [Aside revisited](http://html5doctor.com/aside-revisited/)
-* [You can still use div](http://html5doctor.com/you-can-still-use-div/)
-* [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
-* [Html5 element index](http://html5doctor.com/element-index/)
-* [More excellent articles on html5doctor](http://html5doctor.com/article-archive/)
-* [Book: Div into HTML5](http://diveinto.html5doctor.com/)
+- [Designing a blog with html5](http://html5doctor.com/designing-a-blog-with-html5/)
+- [Html5 Reset Stylesheet](http://html5doctor.com/html-5-reset-stylesheet/)
+- [The header element](http://html5doctor.com/the-header-element/)
+- [The footer element](http://html5doctor.com/the-footer-element-update/)
+- [The article element](http://html5doctor.com/the-nsfw-element/)
+- [Nav element](http://html5doctor.com/nav-element/)
+- [The section element](http://html5doctor.com/the-section-element/)
+- [Aside revisited](http://html5doctor.com/aside-revisited/)
+- [You can still use div](http://html5doctor.com/you-can-still-use-div/)
+- [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
+- [Html5 element index](http://html5doctor.com/element-index/)
+- [More excellent articles on html5doctor](http://html5doctor.com/article-archive/)
+- [Book: Div into HTML5](http://diveinto.html5doctor.com/)
 
-##The 30 CSS Selectors you Must Memorize 
+###The 30 CSS Selectors you Must Memorize 
 
-* [Article](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
+- [Article](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
