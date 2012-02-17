@@ -40,3 +40,4 @@ The Program:
 ###The 30 CSS Selectors you Must Memorize 
 
 - [Article](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
+- [Specificity](http://www.anieto2k.com/2008/08/12/selectores-css-y-especificidad-css-%C2%BFcomo-usarlos/)
